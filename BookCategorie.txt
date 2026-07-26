@@ -1,0 +1,7 @@
+id|name
+----------------------------------------
+1|Travel
+2|Mystery
+3|Historical Fiction
+4|Sequential Art
+5|Classics
