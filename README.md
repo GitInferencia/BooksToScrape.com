@@ -2,7 +2,9 @@
 
 
 Spanish: Ejemplo de un scrape sencillo
-Sitio: Bookstoscrape.com
+
+Sitio: Bookstoscrape.
+
 Que hace: Se revisa el portal para obtener la información de nombres de los libros, su costo y rating. 
 Se obtiene un resumen y se crean dos archivos con la información para analisis
 <img width="610" height="564" alt="image" src="https://github.com/user-attachments/assets/bca2ba23-2d70-411d-a2a8-ae17e31203c9" />
